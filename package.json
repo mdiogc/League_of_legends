@@ -1,0 +1,19 @@
+{
+  "name": "lol",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdiogc/2DAW.git"
+  },
+  "author": "Marina Giacomaniello Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdiogc/2DAW/issues"
+  },
+  "homepage": "https://github.com/mdiogc/2DAW#readme",
+  "description": ""
+}
